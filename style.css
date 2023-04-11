@@ -1,0 +1,50 @@
+h1 {
+  display: block;
+  color: black;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 50px;
+  letter-spacing: 10px;
+}
+
+.container {
+  width: 80%;
+  margin: auto;
+  overflow: hidden;
+}
+
+.container h1 {
+  text-align: center;
+}
+
+.nav ul {
+  list-style: none;
+}
+
+.nav li {
+  float: left;
+  padding: 40px;
+  margin-left: 60px;
+  margin-top: 0;
+  word-spacing: 120px;
+}
+
+footer {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  margin: auto;
+}
+
+.headline {
+  float: right;
+}
+
+.mainimg {
+  text-align: center;
+}
